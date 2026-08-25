@@ -364,7 +364,7 @@
 			if (captchaToken.length === 0) {
 				captcha
 					.siblings('.form-validation')
-					.html('Please, prove that you are not robot.')
+					.html('Por favor, prove que você não é um robô.')
 					.addClass('active');
 				captcha
 					.closest('.form-wrap')

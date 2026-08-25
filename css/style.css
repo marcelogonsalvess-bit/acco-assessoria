@@ -8784,3 +8784,12 @@ html.rd-navbar-fixed-linked .page {
 	top: 24%;
 	left: 19.5%;
 }
+
+
+/* FORMULÁRIO DE CONTATO NOVO */
+
+.optional-text {
+  font-size: 0.85em;
+  color: #888888;
+  font-weight: normal;
+}
